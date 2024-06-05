@@ -105,11 +105,11 @@ Los “Últimos Llamados” ("Last calls") se emiten una vez que todos parecen e
 
 ### Desechadas
 
-- No hubo XEP's desechadas este mes.
+- No hubo XEPs desechadas este mes.
 
 ### Rechazadas
 
-- No hubo XEP rechazadas este mes.
+- No hubo XEPs rechazadas este mes.
 
 ## Difunda las noticias
 
