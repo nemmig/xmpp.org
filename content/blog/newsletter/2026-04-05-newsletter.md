@@ -61,7 +61,7 @@ Once again, this year [JMP](https://jmp.chat/) is pleased to announce its annual
 {{< figure src="/images/newsletter/2026-04-05/conversations-contact-time.png" caption="Conversations showing contact's local time in the chat window" >}}
 
 - [Cheogram](https://cheogram.com/) has released version [2.19.0-5](https://git.sr.ht/~singpolyma/cheogram-android/refs/2.19.0-5) for Android. A bugfix release that addresses many crash fixes, never use iterative DNS for DNSSEC, fallback public server is now jabber.fr, merge security fixes from upstream, allow emoji search by emoji (eg for reactions), better isApp logic to default to commands list or not, and fix for channel avatars on some older servers. Make sure to check out the [changelog](https://git.sr.ht/~singpolyma/cheogram-android/refs) for all the details.
-- [Fluux Messenger](https://github.com/processone/fluux-messenger/blob/main/README.md), has released versions [0.13.3](https://github.com/processone/fluux-messenger/releases/tag/v0.13.3) and [0.14.0](https://github.com/processone/fluux-messenger/releases/tag/v0.14.0), of its modern, cross-platform XMPP client for communities and organizations, with a list of additions, new features, improvements and bugfixes that is way longer than what we could ever mention in here! You can go straight to the [fulll changelog](https://github.com/processone/fluux-messenger/blob/main/CHANGELOG.md) or check the intermediate changelogs from [0.13.2 to 0.13.3](https://github.com/processone/fluux-messenger/compare/v0.13.2...v0.13.3) and/or [0.13.3 to 0.14.0](https://github.com/processone/fluux-messenger/compare/v0.13.3...v0.14.0) for all the details!
+- [Fluux Messenger](https://github.com/processone/fluux-messenger/blob/main/README.md) has released versions [0.13.3](https://github.com/processone/fluux-messenger/releases/tag/v0.13.3) and [0.14.0](https://github.com/processone/fluux-messenger/releases/tag/v0.14.0), of its modern, cross-platform XMPP client for communities and organizations, with a list of additions, new features, improvements and bugfixes that is way longer than what we could ever mention in here! You can go straight to the [full changelog](https://github.com/processone/fluux-messenger/blob/main/CHANGELOG.md) or check the intermediate changelogs from [0.13.2 to 0.13.3](https://github.com/processone/fluux-messenger/compare/v0.13.2...v0.13.3) and/or [0.13.3 to 0.14.0](https://github.com/processone/fluux-messenger/compare/v0.13.3...v0.14.0) for all the details!
 
 {{< figure src="/images/newsletter/2026-04-05/fluux-messenger.png" caption="Fluux Messenger team chat" >}}
 
@@ -77,7 +77,7 @@ Once again, this year [JMP](https://jmp.chat/) is pleased to announce its annual
 
 - [Profanity](https://profanity-im.github.io/) has released version [0.17.0](https://github.com/profanity-im/profanity/releases/tag/0.17.0) of its console based XMPP client written in C. The release announcement for this version is so long that it spans over 200 lines worth of information, which is a lot more than what we could ever list in here, so please make sure to read the [changelog](https://github.com/profanity-im/profanity/blob/master/CHANGELOG) for all the details!
 - [Psi+](https://sourceforge.net/projects/psiplus/) has released version [1.5.2132.0 installer](https://sourceforge.net/projects/psiplus/files/Windows/Personal-Builds/KukuRuzo/) of its development branch of the [Psi](https://sourceforge.net/projects/psi/) XMPP client.
-- [Wimsy](https://github.com/dwd/Wimsy/blob/main/README.md), has released version [0.0.5](https://github.com/dwd/Wimsy/releases/tag/v0.0.5) of it cross-platform XMPP client built with Flutter.
+- [Wimsy](https://github.com/dwd/Wimsy/blob/main/README.md) has released version [0.0.5](https://github.com/dwd/Wimsy/releases/tag/v0.0.5) of it cross-platform XMPP client built with Flutter.
 - [xmpp-web](https://github.com/nioc/xmpp-web/blob/master/README.md) has released version [0.12.0](https://github.com/nioc/xmpp-web/releases/tag/0.12.0) of its lightweight web chat client for XMPP server. You can read the intermediate changelog from [0.11.0 to 0.12.0](https://github.com/nioc/xmpp-web/compare/0.11.0...0.12.0) for all the details.
 
 ### XMPP Servers
@@ -174,7 +174,7 @@ This is a community effort, and we would like to thank translators for their con
   - [French](https://linuxfr.org/tags/xmpp/public): *Adrien Bourmault (neox), alkino, anubis, Arkem, Benoît Sibaud, mathieui, nyco, Pierre Jarillon, Ppjet6, Ysabeau*
   - [Italian](/categories/newsletter/): *Mario Sabatino, Roberto Resoli*
   - [Portuguese](/categories/newsletter/): *Paulo*
-  
+
 ## Help us to build the newsletter
 
 This XMPP Newsletter is produced collaboratively by the XMPP community. Each month's newsletter issue is drafted in this [simple pad](https://pad.nixnet.services/oHnY_ZvLT8SoFyCqIC2ung). At the end of each month, the pad's content is merged into the [XSF GitHub repository](https://github.com/xsf/xmpp.org/milestone/3). We are always happy to welcome contributors. Do not hesitate to join the discussion in our [Comm-Team group chat (MUC)](xmpp:commteam@muc.xmpp.org?join) and thereby help us sustain this as a community effort. You have a project and want to spread the news? Please consider sharing your news or events here, and promote it to a large audience.
