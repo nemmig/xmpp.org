@@ -2,7 +2,7 @@
 title: The XMPP Newsletter March 2026
 date: 2026-04-05
 categories: ['Newsletter']
-summary: "In this issue: 2nd quarterly call for XSF members admissions. XMPP at FOSSY 2026. XMPP Sprint in Berlin. Learn about Spaces in XMPP, a new XMPP MUC BanBot, Sending Jabber/XMPP Messages via HTTP, Self-hosting UnifiedPush with Conversations as Distributor, Install ejabberd, setup a Prosody server with Docker Compose, a new member of the Slidge family, and a complete translation of JoinJabber to Portuguese (BR)! Update your clients with aTalk, Conversations, Cheogram, Fluux Messenger, Gajim, Monal, Monocles, Poezio, Profanity, Psi+, Wimsy and xmpp-web. Update your servers: Openfire 5.0.4, MongooseIM 6.6.0, and ejabberd 26.3. Specifications update: a proposed XEP and four updated ones!"
+summary: "In this issue: 2nd quarterly call for XSF members admissions. XMPP at FOSSY 2026. XMPP Sprint in Berlin. Learn about Spaces in XMPP, a new XMPP MUC BanBot, Sending Jabber/XMPP Messages via HTTP, Self-hosting UnifiedPush with Conversations as Distributor, Install ejabberd, setup a Prosody server with Docker Compose, a new member of the Slidge family, and a complete translation of JoinJabber to Portuguese (BR)! Update your clients with aTalk, Conversations, Cheogram, Fluux Messenger, Gajim, Monal, Monocles, Poezio, Profanity, Psi+, Wimsy and xmpp-web. Update your servers: Openfire 5.0.4, MongooseIM 6.6.0, and ejabberd 26.3. Specifications update: a proposed XEP, four updated ones, and a Last Call!"
 ---
 
 {{< figure src="/images/newsletter/xmpp_newsletter_banner.jpg" caption="XMPP Newsletter Banner" >}}
@@ -134,7 +134,8 @@ If an experimental XEP is not updated for more than twelve months, it will be mo
 
 Last calls are issued once everyone seems satisfied with the current XEP status. After the [Council](/about/xmpp-standards-foundation/#council) decides whether the XEP seems ready, the [XMPP Editor](/about/xsf/editor-team/) issues a Last Call for comments. The feedback gathered during the Last Call can help improve the XEP before returning it to the Council for advancement to Stable.
 
-- No XEPs last calls this month.
+- [Last Call](https://mail.jabber.org/hyperkitty/list/standards@xmpp.org/thread/4IF5UK2HVQDRUEV4LINWHUQFBRE2C63U/) for comments on [XEP-0377](/extensions/xep-0377.html) (Blocking Command Reports)
+  - This Last Call begins on 2026-03-31 and shall end at the close of business on 2026-01-05.
 
 ### Stable
 
