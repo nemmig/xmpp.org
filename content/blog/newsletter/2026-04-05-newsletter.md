@@ -2,7 +2,7 @@
 title: The XMPP Newsletter March 2026
 date: 2026-04-05
 categories: ['Newsletter']
-summary: "In this issue: 2nd quarterly call for XSF members admissions. XMPP at FOSSY 2026. XMPP Sprint in Berlin. Learn about Spaces in XMPP, a new XMPP MUC BanBot, Sending Jabber/XMPP Messages via HTTP, Self-hosting UnifiedPush with Conversations as Distributor, Install ejabberd, setup a Prosody server with Docker Compose, a new member of the Slidge family, and a complete translation of JoinJabber to Portuguese (BR)! Update your clients with aTalk, Conversations, Cheogram, Fluux Messenger, Gajim, Monal, Monocles, Poezio, Profanity, Psi+, Wimsy and xmpp-web. Update your servers: Openfire 5.0.4, MongooseIM 6.6.0, and ejabberd 26.3. Specifications update: a proposed XEP and two updated ones!"
+summary: "In this issue: 2nd quarterly call for XSF members admissions. XMPP at FOSSY 2026. XMPP Sprint in Berlin. Learn about Spaces in XMPP, a new XMPP MUC BanBot, Sending Jabber/XMPP Messages via HTTP, Self-hosting UnifiedPush with Conversations as Distributor, Install ejabberd, setup a Prosody server with Docker Compose, a new member of the Slidge family, and a complete translation of JoinJabber to Portuguese (BR)! Update your clients with aTalk, Conversations, Cheogram, Fluux Messenger, Gajim, Monal, Monocles, Poezio, Profanity, Psi+, Wimsy and xmpp-web. Update your servers: Openfire 5.0.4, MongooseIM 6.6.0, and ejabberd 26.3. Specifications update: a proposed XEP and four updated ones!"
 ---
 
 {{< figure src="/images/newsletter/xmpp_newsletter_banner.jpg" caption="XMPP Newsletter Banner" >}}
@@ -121,8 +121,12 @@ If an experimental XEP is not updated for more than twelve months, it will be mo
 
 ### Updated
 
+- Version 0.2.1 of [XEP-0461](/extensions/xep-0461.html) (Message Replies)
+  - Update the example to use the correct fallback namespace. (mye)
 - Version 0.1.1 of [XEP-0473](/extensions/xep-0473.html) (OpenPGP for XMPP Pubsub)
   - Fix inconsistency between text and example; it's the `key` attribute that carries the shared secret ID (formerly it was `secret`). (jp)
+- Version 0.1.1 of [XEP-0493](/extensions/xep-0493.html) (OAuth Client Login)
+  - Fix reference to RFC 7628 for SASL OAUTHBEARER (XEP Editor: dg)
 - Version 0.1.1 of [XEP-0511](/extensions/xep-0511.html) (Link Metadata)
   - Added security consideration. Added alt text to example. (spw)
 
