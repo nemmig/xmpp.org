@@ -126,7 +126,7 @@ If an experimental XEP is not updated for more than twelve months, it will be mo
 - Version 0.1.1 of [XEP-0473](/extensions/xep-0473.html) (OpenPGP for XMPP Pubsub)
   - Fix inconsistency between text and example; it's the `key` attribute that carries the shared secret ID (formerly it was `secret`). (jp)
 - Version 0.1.1 of [XEP-0493](/extensions/xep-0493.html) (OAuth Client Login)
-  - Fix reference to RFC 7628 for SASL OAUTHBEARER (XEP Editor: dg)
+  - Fix reference to RFC 7628 for `SASL OAUTHBEARER` (XEP Editor: dg)
 - Version 0.1.1 of [XEP-0511](/extensions/xep-0511.html) (Link Metadata)
   - Added security consideration. Added alt text to example. (spw)
 
