@@ -50,7 +50,7 @@ Once again, this year [JMP](https://jmp.chat/) is pleased to announce its annual
 - [The Slidge family is growing](https://slidge.im/blog/2026/03/14/slidge-family-growing/), from the [slidge.im blog/](https://slidge.im/blog/).
 - [JoinJabber](https://joinjabber.org/): thanks to the excellent work done by one of the community members, the whole site is now fully available in [Portuguese (BR)](https://joinjabber.org/pt-br/)! You can check the translation status on their [web translation status page](https://translate.codeberg.org/projects/joinjabber/website/) and help out with other translations!
 - [Introducing CLabber](https://github.com/parenworks/CLabber/blob/feature/native-xmpp/README.org): A terminal UI (TUI) XMPP (Jabber) client written in Common Lisp.
-- [Upgrade ejabberd on Debian NOW](https://monal-im.org/post/00016-upgrade-ejabberd-on-debian/): Chances might be that you are running a Debian based ejabberd server. Unfortunately push for all your Monal users on that server will break in less than 2 month. And chances are that some of your S2S connections are already failing today. By Thilo Molitor for the [monal-im blog](https://monal-im.org/post/).
+- [Upgrade ejabberd on Debian NOW](https://monal-im.org/post/00016-upgrade-ejabberd-on-debian/): Chances might be that you are running a [Debian](https://www.debian.org/) based [ejabberd](https://www.ejabberd.im/) server. Unfortunately push for all your [Monal](https://monal-im.org/) users on that server will break in less than 2 month. And chances are that some of your S2S connections are already failing today. By Thilo Molitor for the [monal-im blog](https://monal-im.org/post/).
 
 ## XMPP Software News
 
