@@ -25,7 +25,6 @@ If you are interested in joining the XMPP Standards Foundation as a member, plea
 ### XMPP at FOSSY 2026
 
 This year's edition of [FOSSY](https://2026.fossy.ca/), the fourth _Free and Open Source Software Yearly_ conference, will take place during the month of August, from Thursday 6th to Sunday 9th 2026 at the [University of British Columbia](https://www.ubc.ca/), Vancouver, Canada. As always, there will be an [XMPP Track](https://2026.fossy.ca/pages/tracks/) and the [call for proposals](https://2026.fossy.ca/call-for-proposals/) is open until April 30th, 2026.
-
 Once again, this year [JMP](https://jmp.chat/) is pleased to announce its annual offer for funding to the potential speakers who would like to host a talk on the XMPP track. Please, join them at [discuss@conference.soprani.ca](xmpp:discuss@conference.soprani.ca?join), and don't hesitate to ask for more information!
 
 ## XMPP Events
