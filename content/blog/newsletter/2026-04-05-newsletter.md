@@ -17,11 +17,6 @@ Interested in contributing to the [XSF Communication Team](/about/xsf/comm-team/
 
 ## XSF Announcements
 
-### XSF Membership
-
-Being an elected member of the XMPP Standards Foundation signals a commitment to open standards and professional engagement in / with the XMPP community. Here, your membership helps position the XSF as a healthy organization, which in itself is valuable. It also grants voting rights on technical and administrative matters within the XSF. The application is a light-weight and free of cost process and you can use your membership to get more involved more easily, too.
-If you are interested in joining the XMPP Standards Foundation as a member, please apply to our **2nd quarterly** call for members admissions [before May 17th, 2026, 00:00 UTC](https://wiki.xmpp.org/web/Membership_Applications_Q2_2026).
-
 ### XMPP at FOSSY 2026
 
 This year's edition of [FOSSY](https://2026.fossy.ca/), the fourth _Free and Open Source Software Yearly_ conference, will take place during the month of August, from Thursday 6th to Sunday 9th 2026 at the [University of British Columbia](https://www.ubc.ca/), Vancouver, Canada. As always, there will be an [XMPP Track](https://2026.fossy.ca/pages/tracks/) and the [call for proposals](https://2026.fossy.ca/call-for-proposals/) is open until April 30th, 2026.
@@ -30,6 +25,11 @@ Once again, this year [JMP](https://jmp.chat/) is pleased to announce its annual
 ## XMPP Events
 
 - [XMPP Sprint in Berlin](https://wiki.xmpp.org/web/Sprints/2026-06_Berlin) (DE / EN): will take place in June, from Friday 19th to Sunday 21st 2026, at the [Wikimedia Deutschland e.V.](https://www.openstreetmap.org/node/2551527703#map=19/52.498414/13.381049) offices in Berlin, Germany. If this sounds like the right event for you, come and join us! Just make sure to list yourself [here](https://wiki.xmpp.org/web/Sprints/2026-06_Berlin#Attendees), so we know how many people will attend and we can plan accordingly. If you have any questions or concerns, join us at the chatroom: [sprints@muc.xmpp.org](xmpp:sprints@muc.xmpp.org?join)!
+
+
+### XSF Membership
+
+Being an elected member of the XMPP Standards Foundation signals a commitment to open standards and professional engagement in / with the XMPP community. Here, your membership helps position the XSF as a healthy organization, which in itself is valuable. It also grants voting rights on technical and administrative matters within the XSF. The application is a light-weight and free of cost process and you can use your membership to get more involved more easily, too. If you are interested in joining the XMPP Standards Foundation as a member, please apply to our **2nd quarterly** call for members admissions [before May 17th, 2026, 00:00 UTC](https://wiki.xmpp.org/web/Membership_Applications_Q2_2026).
 
 ## Videos and Talks
 
