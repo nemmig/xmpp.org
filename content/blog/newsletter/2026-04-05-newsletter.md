@@ -2,7 +2,7 @@
 title: The XMPP Newsletter March 2026
 date: 2026-04-05
 categories: ['Newsletter']
-summary: "In this issue: 2nd quarterly call for XSF members admissions. XMPP at FOSSY 2026. XMPP Sprint in Berlin. Learn about Spaces in XMPP, a new XMPP MUC BanBot, Sending Jabber/XMPP Messages via HTTP, Self-hosting UnifiedPush with Conversations as Distributor, Install ejabberd, setup a Prosody server with Docker Compose, a new member of the Slidge family, and a complete translation of JoinJabber to Portuguese (BR)! Update your clients with aTalk, Conversations, Cheogram, Fluux Messenger, Gajim, Monal, Monocles, Poezio, Profanity, Psi+, Wimsy and xmpp-web. Update your servers: Openfire 5.0.4, MongooseIM 6.6.0, and ejabberd 26.3. Specifications update: a proposed XEP, four updated ones, and a Last Call!"
+summary: "In this issue: Two XMPP Events, learn about Spaces in XMPP, a new XMPP MUC BanBot, Self-hosting UnifiedPush with Conversations as Distributor, a new member of the Slidge family, and a complete translation of JoinJabber to Portuguese (BR). Specifications update: a proposed XEP, four updated ones, and a Last Call!"
 ---
 
 {{< figure src="/images/newsletter/xmpp_newsletter_banner.jpg" caption="XMPP Newsletter Banner" >}}
