@@ -20,7 +20,6 @@ Interested in contributing to the [XSF Communication Team](/about/xsf/comm-team/
 ### XSF Membership
 
 Being an elected member of the XMPP Standards Foundation signals a commitment to open standards and professional engagement in / with the XMPP community. Here, your membership helps position the XSF as a healthy organization, which in itself is valuable. It also grants voting rights on technical and administrative matters within the XSF. The application is a light-weight and free of cost process and you can use your membership to get more involved more easily, too.
-
 If you are interested in joining the XMPP Standards Foundation as a member, please apply to our **2nd quarterly** call for members admissions [before May 17th, 2026, 00:00 UTC](https://wiki.xmpp.org/web/Membership_Applications_Q2_2026).
 
 ### XMPP at FOSSY 2026
